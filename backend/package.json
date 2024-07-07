@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umaima0609/hackathon-test-.git"
+  },
+  "author": "umaima khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umaima0609/hackathon-test-/issues"
+  },
+  "homepage": "https://github.com/umaima0609/hackathon-test-#readme",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.5",
+    "nodemon": "^3.1.4"
+  }
+}
